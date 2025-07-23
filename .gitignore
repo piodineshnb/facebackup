@@ -1,0 +1,11 @@
+__pycache__/
+**/__pycache__/
+*.py[cod]
+.venv/
+venv/
+.caches
+.jobs
+.idea/
+.vscode/
+.assets/
+temp/

@@ -1,0 +1,107 @@
+IN FACE_SWAPPER.PY process_image
+sys.argv[0]: facefusion.py
+sys.argv[1]: headless-run
+sys.argv[2]: --source
+sys.argv[3]: D:\facefusion\temp\source_a43c8700-8a49-4092-bce2-da4a15e73559_0.jpg
+sys.argv[4]: --target
+sys.argv[5]: D:\facefusion\temp\ielts.mp4
+sys.argv[6]: --output-path
+sys.argv[7]: D:\facefusion\temp\enhanced_result.mp4
+sys.argv[8]: --reference-face-path
+sys.argv[9]: D:\facefusion\temp\face_5e538893-4825-43b8-9a62-05b40e241c0c\pic.jpg
+sys.argv[10]: --face-enhancer-model
+sys.argv[11]: gfpgan_1.4
+sys.argv[12]: --face-enhancer-blend
+sys.argv[13]: 100
+sys.argv[14]: --face-enhancer-weight
+sys.argv[15]: 1.0
+sys.argv[16]: --output-video-encoder
+sys.argv[17]: libx264
+sys.argv[18]: --output-video-quality
+sys.argv[19]: 95
+sys.argv[20]: --execution-providers
+sys.argv[21]: cuda
+REFERENCE FACE PATH ARGUMENT (sys.argv): D:\facefusion\temp\face_5e538893-4825-43b8-9a62-05b40e241c0c\pic.jpg
+DEBUG: File exists? False
+DEBUG: img is None? True
+DEBUG: Could not load image with cv2.imread from sys.argv
+IN FACE_SWAPPER.PY process_image
+sys.argv[0]: facefusion.py
+sys.argv[1]: headless-run
+sys.argv[2]: --source
+sys.argv[3]: D:\facefusion\temp\source_a43c8700-8a49-4092-bce2-da4a15e73559_0.jpg
+sys.argv[4]: --target
+sys.argv[5]: D:\facefusion\temp\ielts.mp4
+sys.argv[6]: --output-path
+sys.argv[7]: D:\facefusion\temp\enhanced_result.mp4
+sys.argv[8]: --reference-face-path
+sys.argv[9]: D:\facefusion\temp\face_5e538893-4825-43b8-9a62-05b40e241c0c\pic.jpg
+sys.argv[10]: --face-enhancer-model
+sys.argv[11]: gfpgan_1.4
+sys.argv[12]: --face-enhancer-blend
+sys.argv[13]: 100
+sys.argv[14]: --face-enhancer-weight
+sys.argv[15]: 1.0
+sys.argv[16]: --output-video-encoder
+sys.argv[17]: libx264
+sys.argv[18]: --output-video-quality
+sys.argv[19]: 95
+sys.argv[20]: --execution-providers
+sys.argv[21]: cuda
+REFERENCE FACE PATH ARGUMENT (sys.argv): D:\facefusion\temp\face_5e538893-4825-43b8-9a62-05b40e241c0c\pic.jpg
+DEBUG: File exists? False
+DEBUG: img is None? True
+DEBUG: Could not load image with cv2.imread from sys.argv
+IN FACE_SWAPPER.PY process_image
+sys.argv[0]: facefusion.py
+sys.argv[1]: headless-run
+sys.argv[2]: --source
+sys.argv[3]: D:\facefusion\temp\source_a43c8700-8a49-4092-bce2-da4a15e73559_0.jpg
+sys.argv[4]: --target
+sys.argv[5]: D:\facefusion\temp\ielts.mp4
+sys.argv[6]: --output-path
+sys.argv[7]: D:\facefusion\temp\enhanced_result.mp4
+sys.argv[8]: --reference-face-path
+sys.argv[9]: D:\facefusion\temp\pic.jpg
+sys.argv[10]: --face-enhancer-model
+sys.argv[11]: gfpgan_1.4
+sys.argv[12]: --face-enhancer-blend
+sys.argv[13]: 100
+sys.argv[14]: --face-enhancer-weight
+sys.argv[15]: 1.0
+sys.argv[16]: --output-video-encoder
+sys.argv[17]: libx264
+sys.argv[18]: --output-video-quality
+sys.argv[19]: 95
+sys.argv[20]: --execution-providers
+sys.argv[21]: cuda
+REFERENCE FACE PATH ARGUMENT (sys.argv): D:\facefusion\temp\pic.jpg
+DEBUG: File exists? True
+DEBUG: img is None? False
+DEBUG: Image saved as debug_reference_face_sysargv.jpg
+IN FACE_SWAPPER.PY process_image
+sys.argv[0]: facefusion.py
+sys.argv[1]: headless-run
+sys.argv[2]: --source
+sys.argv[3]: D:\facefusion\temp\source_a43c8700-8a49-4092-bce2-da4a15e73559_0.jpg
+sys.argv[4]: --target
+sys.argv[5]: D:\facefusion\temp\ielts.mp4
+sys.argv[6]: --output-path
+sys.argv[7]: D:\facefusion\temp\enhanced_result.mp4
+sys.argv[8]: --reference-face-path
+sys.argv[9]: D:\facefusion\temp\pic.jpg
+sys.argv[10]: --face-enhancer-model
+sys.argv[11]: gfpgan_1.4
+sys.argv[12]: --face-enhancer-blend
+sys.argv[13]: 100
+sys.argv[14]: --face-enhancer-weight
+sys.argv[15]: 1.0
+sys.argv[16]: --output-video-encoder
+sys.argv[17]: libx264
+sys.argv[18]: --output-video-quality
+sys.argv[19]: 95
+sys.argv[20]: --execution-providers
+sys.argv[21]: cuda
+REFERENCE FACE PATH ARGUMENT (sys.argv): D:\facefusion\temp\pic.jpg
+DEBUG: File exists? True
+DEBUG: img is None? False
